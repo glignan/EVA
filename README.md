@@ -49,47 +49,48 @@
 ### La segunda componente es la componente Gradiental, donde después de abrir aparece el método de interpolación, para la presión atmosférica:
 <p align="center">
   <img src="Data/11.png" width="50%" height="50%"></img>
-</p>
- 
- 
-### La tercera componente es la componente Baroclinico, donde después de abrir aparece el método de interpolación, para la presión atmosférica:
+</p> 
+
 <p align="center">
   <img src="Data/12.png" width="50%" height="50%"></img>
 </p>
- 
-### Se guardan los resultados de densidades para cada profundidad:
+
  <p align="center">
   <img src="Data/13.png" width="50%" height="50%"></img>
 </p>
+
+### La tercera componente es la componente Baroclinico, donde después de abrir aparece el método de interpolación, para la presión atmosférica:
+  <p align="center">
+  <img src="Data/14.png" width="50%" height="50%"></img>
+</p>
+### Se guardan los resultados de densidades para cada profundidad:
+  <p align="center">
+  <img src="Data/15.png" width="50%" height="50%"></img>
+</p>
 ### Se realiza la interpolación de la densidad para cada profundidad:
  <p align="center">
-  <img src="Data/14.png" width="50%" height="50%"></img>
+  <img src="Data/16.png" width="50%" height="50%"></img>
 </p>
 ### Se guardan los resultados de interpolación para cada profundidad:
  <p align="center">
-  <img src="Data/15.png" width="50%" height="50%"></img>
-</p>
-### Elegir el método de interpolación superficial, para la densidad:
-<p align="center">
-  <img src="Data/16.png" width="50%" height="50%"></img>
-</p>
- 
-### Características para la interpolación de la presión atmosférica:
- <p align="center">
   <img src="Data/17.png" width="50%" height="50%"></img>
 </p>
-### Guardar la figura de la densidad en la superficie:
- <p align="center">
+### Elegir el método de interpolación superficial, para la densidad:
+   <p align="center">
   <img src="Data/18.png" width="50%" height="50%"></img>
 </p>
-### Resultado de la interpolación de la densidad de la superficie:
+### Características para la interpolación de la presión atmosférica:
  <p align="center">
   <img src="Data/19.png" width="50%" height="50%"></img>
 </p>
-### Se guardan los resultados de la componente Baroclinico:
+### Guardar la figura de la densidad en la superficie:
  <p align="center">
   <img src="Data/20.png" width="50%" height="50%"></img>
 </p>
+### Resultado de la interpolación de la densidad de la superficie:
+ 
+### Se guardan los resultados de la componente Baroclinico:
+
 ### Calculo de la velocidad de surgencias:
  <p align="center">
   <img src="Data/21.png" width="50%" height="50%"></img>
