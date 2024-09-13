@@ -120,152 +120,156 @@
   <img src="Data/28.png" width="50%" height="50%"></img>
 </p>
 ### Menú del cálculo de la Estabilidad:
- 
-### Se guardan los resultados de los gradientes de T y S:
- 
-### Se guardan los resultados de la estabilidad termohalina:
-<p align="center">
+ <p align="center">
   <img src="Data/29.png" width="50%" height="50%"></img>
 </p>
-### Graficar el perfil de la estabilidad en un punto:
+### Se guardan los resultados de los gradientes de T y S:
  <p align="center">
   <img src="Data/30.png" width="50%" height="50%"></img>
 </p>
-### Hay que abrir el archivo de estabilidad:
+### Se guardan los resultados de la estabilidad termohalina:
  <p align="center">
   <img src="Data/31.png" width="50%" height="50%"></img>
 </p>
-### Hay que ingresar los valores de longitud y latitud del punto y la profundidad:
- <p align="center">
+### Graficar el perfil de la estabilidad en un punto:
+  <p align="center">
   <img src="Data/32.png" width="50%" height="50%"></img>
 </p>
-### Ingresar el nombre del archivo para guardar la figura:
+### Hay que abrir el archivo de estabilidad:
  <p align="center">
   <img src="Data/33.png" width="50%" height="50%"></img>
 </p>
-### Ingresar los títulos para la figura:
+### Hay que ingresar los valores de longitud y latitud del punto y la profundidad:
  <p align="center">
   <img src="Data/34.png" width="50%" height="50%"></img>
 </p>
-### El resultado del perfil:
+### Ingresar el nombre del archivo para guardar la figura:
  <p align="center">
   <img src="Data/35.png" width="50%" height="50%"></img>
 </p>
-### Hacer un gráfico del transepto latitudinal:
+### Ingresar los títulos para la figura:
  <p align="center">
   <img src="Data/36.png" width="50%" height="50%"></img>
 </p>
-### Elegir el método de interpolación:
+### El resultado del perfil:
  <p align="center">
   <img src="Data/37.png" width="50%" height="50%"></img>
 </p>
-### Características de la interpolación:
+### Hacer un gráfico del transepto latitudinal:
  <p align="center">
   <img src="Data/38.png" width="50%" height="50%"></img>
 </p>
-### Guardar la figura:
+### Elegir el método de interpolación:
  <p align="center">
   <img src="Data/39.png" width="50%" height="50%"></img>
 </p>
-### Resultado del transepto latitudinal:
+### Características de la interpolación:
  <p align="center">
   <img src="Data/40.png" width="50%" height="50%"></img>
 </p>
-### Hacer un gráfico del transepto logitudinal:
+### Guardar la figura:
  <p align="center">
   <img src="Data/41.png" width="50%" height="50%"></img>
 </p>
-### Elegir el método de interpolación:
- <p align="center">
+### Resultado del transepto latitudinal:
+<p align="center">
   <img src="Data/42.png" width="50%" height="50%"></img>
 </p>
-### Características de la interpolación:
+### Hacer un gráfico del transepto logitudinal:
 <p align="center">
   <img src="Data/43.png" width="50%" height="50%"></img>
 </p>
-### Guardar la figura:
- <p align="center">
+### Elegir el método de interpolación:
+  <p align="center">
   <img src="Data/44.png" width="50%" height="50%"></img>
 </p>
-### Resultado del transepto logitudinal:
+### Características de la interpolación:
 <p align="center">
   <img src="Data/45.png" width="50%" height="50%"></img>
 </p>
-### Menú del cálculo de la Frecuencia N:
+### Guardar la figura:
  <p align="center">
   <img src="Data/46.png" width="50%" height="50%"></img>
 </p>
-### Se guardan los resultados de la velocidad del sonido:
+### Resultado del transepto logitudinal:
  <p align="center">
   <img src="Data/47.png" width="50%" height="50%"></img>
 </p>
-### Se guardan los resultados de Vaisala Brenta:
+### Menú del cálculo de la Frecuencia N:
  <p align="center">
   <img src="Data/48.png" width="50%" height="50%"></img>
 </p>
-### Graficar el perfil de la Vaisala Brenta en un punto:
- <p align="center">
+### Se guardan los resultados de la velocidad del sonido:
+<p align="center">
   <img src="Data/49.png" width="50%" height="50%"></img>
 </p>
-### Hay que abrir el archivo de Vaisala Brenta:
+### Se guardan los resultados de Vaisala Brenta:
  <p align="center">
   <img src="Data/50.png" width="50%" height="50%"></img>
 </p>
-### Hay que ingresar los valores de longitud y latitud del punto y la profundidad:
+### Graficar el perfil de la Vaisala Brenta en un punto:
   <p align="center">
   <img src="Data/51.png" width="50%" height="50%"></img>
 </p>
-### Ingresar el nombre del archivo para guardar la figura:
-  <p align="center">
+### Hay que abrir el archivo de Vaisala Brenta:
+ <p align="center">
   <img src="Data/52.png" width="50%" height="50%"></img>
 </p>
-### Ingresar los títulos para la figura:
+### Hay que ingresar los valores de longitud y latitud del punto y la profundidad:
   <p align="center">
   <img src="Data/53.png" width="50%" height="50%"></img>
 </p>
-### El resultado del perfil:
-  <p align="center">
+### Ingresar el nombre del archivo para guardar la figura:
+ <p align="center">
   <img src="Data/54.png" width="50%" height="50%"></img>
 </p>
-### Hacer un gráfico del transepto latitudinal:
+### Ingresar los títulos para la figura:
   <p align="center">
   <img src="Data/55.png" width="50%" height="50%"></img>
 </p>
-### Elegir el método de interpolación:
-  <p align="center">
+### El resultado del perfil:
+   <p align="center">
   <img src="Data/56.png" width="50%" height="50%"></img>
 </p>
-### Características de la interpolación:
+### Hacer un gráfico del transepto latitudinal:
   <p align="center">
   <img src="Data/57.png" width="50%" height="50%"></img>
 </p>
-### Guardar la figura:
+### Elegir el método de interpolación:
   <p align="center">
   <img src="Data/58.png" width="50%" height="50%"></img>
 </p>
-### Resultado del transepto latitudinal:
+### Características de la interpolación:
   <p align="center">
   <img src="Data/59.png" width="50%" height="50%"></img>
 </p>
-### Hacer un gráfico del transepto logitudinal:
+### Guardar la figura:
   <p align="center">
   <img src="Data/60.png" width="50%" height="50%"></img>
 </p>
-### Elegir el método de interpolación:
-   <p align="center">
+### Resultado del transepto latitudinal:
+  <p align="center">
   <img src="Data/61.png" width="50%" height="50%"></img>
 </p>
-### Características de la interpolación:
-   <p align="center">
+### Hacer un gráfico del transepto logitudinal:
+  <p align="center">
   <img src="Data/62.png" width="50%" height="50%"></img>
 </p>
-### Guardar la figura:
+### Elegir el método de interpolación:
    <p align="center">
   <img src="Data/63.png" width="50%" height="50%"></img>
 </p>
-### Resultado del transepto logitudinal:
+### Características de la interpolación:
    <p align="center">
   <img src="Data/64.png" width="50%" height="50%"></img>
+</p>
+### Guardar la figura:
+   <p align="center">
+  <img src="Data/65.png" width="50%" height="50%"></img>
+</p>
+### Resultado del transepto logitudinal:
+   <p align="center">
+  <img src="Data/66.png" width="50%" height="50%"></img>
 </p>
 
 
@@ -283,7 +287,7 @@ Se direcciona a la página de GitHub https://github.com/glignan/EVA/blob/main/RE
 
 ### Help – Acerca de:
    <p align="center">
-  <img src="Data/65.png" width="50%" height="50%"></img>
+  <img src="Data/67.png" width="50%" height="50%"></img>
 </p>
 
 
