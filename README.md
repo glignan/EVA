@@ -88,41 +88,41 @@
   <img src="Data/20.png" width="50%" height="50%"></img>
 </p>
 ### Resultado de la interpolación de la densidad de la superficie:
- 
-### Se guardan los resultados de la componente Baroclinico:
-
-### Calculo de la velocidad de surgencias:
- <p align="center">
+  <p align="center">
   <img src="Data/21.png" width="50%" height="50%"></img>
 </p>
-### Se guardan los resultados de la velocidad de surgencias:
- <p align="center">
+### Se guardan los resultados de la componente Baroclinico:
+   <p align="center">
   <img src="Data/22.png" width="50%" height="50%"></img>
+</p>
+### Calculo de la velocidad de surgencias:
+  <p align="center">
+  <img src="Data/23.png" width="50%" height="50%"></img>
+</p>
+### Se guardan los resultados de la velocidad de surgencias:
+  <p align="center">
+  <img src="Data/24.png" width="50%" height="50%"></img>
 </p>
 ### Elegir el método de interpolación superficial, para la de la velocidad de surgencias:
 <p align="center">
-  <img src="Data/23.png" width="50%" height="50%"></img>
+  <img src="Data/25.png" width="50%" height="50%"></img>
 </p>
 ### Características para la interpolación de la velocidad de surgencias:
  <p align="center">
-  <img src="Data/24.png" width="50%" height="50%"></img>
+  <img src="Data/26.png" width="50%" height="50%"></img>
 </p>
 ### Guardar la figura:
 <p align="center">
-  <img src="Data/25.png" width="50%" height="50%"></img>
+  <img src="Data/27.png" width="50%" height="50%"></img>
 </p>
 ### Resultado de la interpolación de la velocidad de surgencias:
 <p align="center">
-  <img src="Data/26.png" width="50%" height="50%"></img>
-</p>
-### Menú del cálculo de la Estabilidad:
- <p align="center">
-  <img src="Data/27.png" width="50%" height="50%"></img>
-</p>
-### Se guardan los resultados de los gradientes de T y S:
- <p align="center">
   <img src="Data/28.png" width="50%" height="50%"></img>
 </p>
+### Menú del cálculo de la Estabilidad:
+ 
+### Se guardan los resultados de los gradientes de T y S:
+ 
 ### Se guardan los resultados de la estabilidad termohalina:
 <p align="center">
   <img src="Data/29.png" width="50%" height="50%"></img>
